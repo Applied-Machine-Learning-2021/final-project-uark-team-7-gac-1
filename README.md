@@ -10,7 +10,7 @@ link to each members respective GitHub profile
 -->
 Developed by:
 - [Alexis Mercado](https://github.com/AIMS21) - `University of Arkansas`
-- [Christian Sibrian](https://github.com/hachristian) - `University of Arkansas`
+- [Julio Sibrian](https://github.com/hachristian) - `University of Arkansas`
 - [Gerardo Moreno](https://github.com/gdmoreno24) - `University of Arkansas`
 
 ## Description
